@@ -1,6 +1,6 @@
-# Infinite-For-Loop-Counter
-# Run that code, feel like hacker lol!
-# here is that simple code using c language:
+//Infinite-For-Loop-Counter
+//Run that code, feel like hacker lol!
+//here is that simple code using c language:
 
 #include <stdio.h>
 
